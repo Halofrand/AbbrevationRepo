@@ -5,4 +5,8 @@
 <br>
 2. uHHHHH --> somtething something
 <br>
+<<<<<<< HEAD
 3. This is a new Feature (icon).
+=======
+3. This is a new Feature (button).
+>>>>>>> main
